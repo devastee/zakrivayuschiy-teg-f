@@ -3,8 +3,8 @@
   --font-main: "Inter-Variable", sans-serif;
   --font-accent: "PressStart2P", monospace;
 
-  --card-title-weight: 715;
-  --card-text-weight: 410;
+  --card-title-weight: 'wght' 715;
+  --card-text-weight: 'wght' 410;
   --card-font-size: 18px;
 
   --background: 

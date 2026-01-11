@@ -1,1 +1,1 @@
-https://github.com/devastee/zakrivayuschiy-teg-f
+https://devastee.github.io/zakrivayuschiy-teg-f/
